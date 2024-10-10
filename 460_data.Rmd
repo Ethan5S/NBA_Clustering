@@ -15,5 +15,7 @@ salary = read.csv("sportsref_download.csv")
 info_22_23 = read.csv("2022-2023 NBA Player Stats - Regular.csv", sep = ";")
 player_dta = read.csv("all_seasons.csv")
 unique(player_dta$season)
+
+
 ```
 
